@@ -1,0 +1,1 @@
+# asterlinux-grub-theme
