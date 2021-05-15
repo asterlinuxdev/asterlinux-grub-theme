@@ -1,2 +1,3 @@
 # asterlinux-grub-theme
-# original author: https://github.com/vinceliuice/grub2-themes
+
+original author: https://github.com/vinceliuice/grub2-themes
